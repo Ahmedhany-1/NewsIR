@@ -24,3 +24,5 @@ desktop.ini
 
 # NLTK data
 nltk_data/
+create_notebook.py
+nb_explanations.py
